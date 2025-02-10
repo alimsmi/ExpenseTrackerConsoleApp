@@ -1,0 +1,11 @@
+{
+  "JsonFileLocation": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\JsonFileStorage\\",
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+}

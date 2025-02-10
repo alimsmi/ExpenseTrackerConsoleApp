@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\budgetcommands\\addbudgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\budgetcommands\\addbudgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\budgetcommands\\budgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\budgetcommands\\budgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\listcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\listcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\budgetcommands\\updatebudgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\budgetcommands\\updatebudgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\commands\\budgetcommands\\deletebudgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\commands\\budgetcommands\\deletebudgetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\common\\jsonbudgetfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\common\\jsonbudgetfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\common\\jsonfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\common\\jsonfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\common\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\common\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\jsonfilestorage\\budget.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\jsonfilestorage\\budget.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\common\\csvfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\common\\csvfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\jsonfilestorage\\expensesstorage.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\jsonfilestorage\\expensesstorage.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|c:\\users\\ali masoumi\\desktop\\tamrin\\c#\\expensetrackerwithclifx\\expensetrackerwithclifx\\common\\expenseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F23719-B995-4D1A-9486-57DFBAAB430B}|ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX.csproj|solutionrelative:expensetrackerwithclifx\\common\\expenseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\ListCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\ListCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\ListCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\ListCommand.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAQBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:10:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteBudgetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\DeleteBudgetCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\DeleteBudgetCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\DeleteBudgetCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\DeleteBudgetCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:48:51.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBudgetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\AddBudgetCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\AddBudgetCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\AddBudgetCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\AddBudgetCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:46:32.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\JsonFileHandler.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Common\\JsonFileHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\JsonFileHandler.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Common\\JsonFileHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:02:43.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\BudgetCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\BudgetCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\BudgetCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\BudgetCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:49:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\AddCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\AddCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\AddCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\AddCommand.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:08:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\UpdateCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\UpdateCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\UpdateCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\UpdateCommand.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:09:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBudgetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\UpdateBudgetCommand.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\UpdateBudgetCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\UpdateBudgetCommand.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Commands\\BudgetCommands\\UpdateBudgetCommand.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:03:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonBudgetFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\JsonBudgetFileHandler.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Common\\JsonBudgetFileHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\JsonBudgetFileHandler.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Common\\JsonBudgetFileHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwGAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:27:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "budget.json",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\JsonFileStorage\\budget.json",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\JsonFileStorage\\budget.json",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\JsonFileStorage\\budget.json",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\JsonFileStorage\\budget.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T13:37:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Program.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:00:35.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CSVFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\CSVFileHandler.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Common\\CSVFileHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\CSVFileHandler.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Common\\CSVFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:45:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\Budget.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Common\\Budget.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\Budget.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Common\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:15:39.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "expensesStorage.json",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\JsonFileStorage\\expensesStorage.json",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\JsonFileStorage\\expensesStorage.json",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\JsonFileStorage\\expensesStorage.json",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\JsonFileStorage\\expensesStorage.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T13:37:31.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExpenseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\ExpenseEntity.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWithCliFX\\Common\\ExpenseEntity.cs",
+              "ToolTip": "C:\\Users\\Ali Masoumi\\Desktop\\Tamrin\\C#\\ExpenseTrackerWithCliFX\\ExpenseTrackerWithCliFX\\Common\\ExpenseEntity.cs",
+              "RelativeToolTip": "ExpenseTrackerWithCliFX\\Common\\ExpenseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:45:05.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
